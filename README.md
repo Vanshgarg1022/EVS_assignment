@@ -1,6 +1,8 @@
 # EVS_assignment
 SmartBin Alert is a smart waste management prototype that monitors simulated bin fill levels, visualizes bin status on an interactive dashboard, flags overflow risks, and supports citizen reporting and collection route planning. Built with HTML, CSS, and JavaScript, with planned ESP32, IoT, cloud, and ML integration.
 
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/68debb42-9182-419a-bdbf-935eae69e4a4" />
+
 A smart waste management prototype for cleaner, smarter cities.
 SmartBin Alert is a browser-based prototype designed to demonstrate how technology can help municipal teams monitor public dustbins, identify overflow risks, coordinate collection, and receive citizen reports. The current version uses simulated bin data and runs directly in a web browser.
 Project status: Front-end prototype. ESP32 sensor integration, cloud storage, real-time notifications, live map services, and trained machine-learning predictions are not yet connected.
